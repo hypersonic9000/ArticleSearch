@@ -1,4 +1,4 @@
-# Lab 3 - *ArticleSearch*
+# Lab 4 - *ArticleSearch*
 
 Submitted by: **Jalen Olsen**
 
